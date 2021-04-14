@@ -1,0 +1,5 @@
+# Intel-Hackintosh
+- Intel Core 2 Quad Q8200 (at 2.5GHz)
+- Gigabyte GA-EP45-UD3R (rev 1.1)
+- Corsair XMS2 DDR2-800 8GB (4x2GB)
+- Gigabyte GT 710 GDDR3 1GB
