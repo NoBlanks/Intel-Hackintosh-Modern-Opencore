@@ -5,6 +5,9 @@
 - Gigabyte GT 710 GDDR3 1GB
 
 # What doesn't work
-- DRM
+- DRM in Safari and Apple TV+
 - AirDrop
 - Gaming (Seriously don't use this for gaming)
+
+# Additional Notes
+- Change the serial and stuff if you're using this EFI
