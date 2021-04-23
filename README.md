@@ -10,6 +10,7 @@
 - DRM in Safari and Apple TV+
 - AirDrop
 - Gaming (Seriously don't use this for gaming)
+- Booting versions below 10.12 (not going to bother to fix it)
 
 # What doesn't work in the 11.4 Beta
 - Sometimes Kernal Panics during boot (run first aid in recovery to fix)
@@ -17,3 +18,5 @@
 
 # Additional Notes
 - Change the serial and stuff if you're using this EFI
+- You might want to change the USBMap.kext to USBInjectAll.kext or compile your own USBMap.kext when booted into macOS
+- Yes this EFI has emulated NVRAM and IS REQUIRED for every Big Sur update, for other versions, it's optional 
