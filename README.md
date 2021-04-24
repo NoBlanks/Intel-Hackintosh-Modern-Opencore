@@ -5,7 +5,8 @@
 - Gigabyte GT 710 GDDR3 1GB (alt card: XFX 9600 GSO 768MB)
 - ASUS BT400 Bluetooth
 - Opencore 0.6.8
-- MacOS Big Sur 11.4 Beta 1 (Very unstable)
+- MacOS Big Sur 11.4 Beta 1
+- Mac OS X Tiger 10.4.10
 
 # What doesn't work normally
 - DRM in Safari and Apple TV+
