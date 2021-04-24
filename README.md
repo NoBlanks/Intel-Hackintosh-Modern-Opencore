@@ -21,8 +21,9 @@
 - You might want to change the USBMap.kext to USBInjectAll.kext or compile your own USBMap.kext when booted into macOS
 - Yes this EFI has emulated NVRAM and IS REQUIRED for every Big Sur update, for other versions, it's not needed at all
 
-# Testing
+# Future additions and testing
 - Using chris1111's patchers in Mojave, Catalina and maybe Big Sur to get my Nvidia Tesla card working on those versions
 - Mojave Patcher: https://github.com/chris1111/Fix-Old-NVIDIA-macOS-Mojave
 - Catalina (maybe I'll test this in Big Sur too): https://github.com/chris1111/Legacy-Video-patch
 - Older versions of macOS/OS X (10.4-10.11)
+- Might add Inject Nvidia for older cards
