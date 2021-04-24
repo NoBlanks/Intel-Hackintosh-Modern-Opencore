@@ -13,10 +13,10 @@
 - Booting versions below 10.12 (not going to bother to fix it)
 
 # What doesn't work in the 11.4 Beta
-- Sometimes Kernal Panics during boot (run first aid in recovery to fix)
+- Sometimes Kernel Panics during boot (run first aid in recovery to fix)
 - Shut down from macOS doesn't fully power off the system and put the system into deep sleep
 
 # Additional Notes
 - Change the serial and stuff if you're using this EFI
 - You might want to change the USBMap.kext to USBInjectAll.kext or compile your own USBMap.kext when booted into macOS
-- Yes this EFI has emulated NVRAM and IS REQUIRED for every Big Sur update, for other versions, it's optional 
+- Yes this EFI has emulated NVRAM and IS REQUIRED for every Big Sur update, for other versions, it's not needed at all
