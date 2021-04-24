@@ -3,6 +3,7 @@
 - Gigabyte GA-EP45-UD3R (rev 1.1)
 - Corsair XMS2 DDR2-800 8GB (4x2GB)
 - Gigabyte GT 710 GDDR3 1GB (alt card: XFX 9600 GSO 768MB)
+- ASUS BT400 Bluetooth
 - Opencore 0.6.8
 - MacOS Big Sur 11.4 Beta 1 (Very unstable)
 
