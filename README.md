@@ -10,7 +10,7 @@
 - DRM in Safari and Apple TV+
 - AirDrop
 - Gaming (Seriously don't use this for gaming)
-- Booting versions below 10.12 (not going to bother to fix it)
+- Booting versions below 10.12 (working on that right now)
 
 # What doesn't work in the 11.4 Beta
 - Sometimes Kernel Panics during boot (run first aid in recovery to fix)
