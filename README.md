@@ -5,7 +5,6 @@
 - Gigabyte GT 710 GDDR3 1GB (alt card: XFX 9600 GSO 768MB)
 - ASUS BT400 Bluetooth
 - Opencore 0.6.8
-- MacOS Big Sur 11.4 Beta 1
 - Mac OS X Tiger 10.4.10
 
 # What doesn't work normally
@@ -29,3 +28,4 @@
 - Catalina (maybe I'll test this in Big Sur too): https://github.com/chris1111/Legacy-Video-patch
 - Older versions of macOS/OS X (10.4-10.11)
 - Might add Inject Nvidia for older cards
+- Converting EFI for use on Pre-macOS 
