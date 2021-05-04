@@ -4,8 +4,8 @@
 - Corsair XMS2 DDR2-800 8GB (4x2GB)
 - Gigabyte GT 710 GDDR3 1GB (alt card: XFX 9600 GSO 768MB)
 - ASUS BT400 Bluetooth
-- Opencore 0.6.8
-- Mac OS X Tiger 10.4.10
+- Opencore 0.6.9
+- macOS Big Sur 11.2.3
 
 # What doesn't work normally
 - DRM in Safari and Apple TV+
@@ -23,9 +23,4 @@
 - Yes this EFI has emulated NVRAM and IS REQUIRED for every Big Sur update, for other versions, it's not needed at all
 
 # Future additions and testing
-- Using chris1111's patchers in Mojave, Catalina and maybe Big Sur to get my Nvidia Tesla card working on those versions
-- Mojave Patcher: https://github.com/chris1111/Fix-Old-NVIDIA-macOS-Mojave
-- Catalina (maybe I'll test this in Big Sur too): https://github.com/chris1111/Legacy-Video-patch
-- Older versions of macOS/OS X (10.4-10.11)
-- Might add Inject Nvidia for older cards
-- Converting EFI for use on Pre-macOS 
+- Converting EFI for use on Pre-macOS (will be put in a different repository)
