@@ -4,7 +4,7 @@
 - Corsair XMS2 DDR2-800 8GB (4x2GB)
 - Gigabyte GT 710 GDDR3 1GB
 - ASUS BT400 Bluetooth
-- Opencore 0.6.9
+- Opencore 0.6.8
 - macOS Big Sur 11.2.3
 
 # What doesn't work normally
