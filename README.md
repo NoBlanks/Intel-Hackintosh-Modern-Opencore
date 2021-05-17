@@ -2,7 +2,7 @@
 - Intel Core 2 Quad Q8200
 - Gigabyte GA-EP45-UD3R (rev 1.1)
 - Corsair XMS2 DDR2-800 8GB (4x2GB)
-- Gigabyte GT 710 GDDR3 1GB (alt card: XFX 9600 GSO 768MB)
+- Gigabyte GT 710 GDDR3 1GB
 - ASUS BT400 Bluetooth
 - Opencore 0.6.9
 - macOS Big Sur 11.2.3
@@ -26,10 +26,10 @@
 # Additional Notes
 - Change the serial and stuff if you're using this EFI
 - You might want to change the USBMap.kext to USBInjectAll.kext or compile your own USBMap.kext when booted into macOS
-- Yes this EFI has emulated NVRAM and IS REQUIRED for every Big Sur update, for other versions, it's not needed at all
+- Emulated NVRAM IS REQUIRED for every Big Sur update, for other versions, it's not needed at all
 
 # Future additions and testing
-- Converting EFI for use on Pre-macOS (will be put in a different repository)
+- Converting EFI for use on Pre-macOS (will be put in a different repository, currently on hold)
 
 # For use in Big Sur (Methods given by TheBloke: https://github.com/TheBloke)
 - Must have working NVRAM (https://dortania.github.io/OpenCore-Post-Install/misc/nvram.html)
