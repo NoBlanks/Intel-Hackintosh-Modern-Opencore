@@ -11,7 +11,7 @@
 - DRM in Safari and Apple TV+
 - AirDrop
 - Gaming (Seriously don't use this for gaming)
-- Booting versions below 10.12 (working on that right now)
+- Booting versions below 10.12 (not working on that as of right now)
 
 # Tested macOS versions that works
 - Big Sur (need to have working emulated NVRAM, more notes below)
@@ -30,6 +30,7 @@
 
 # Future additions and testing
 - Converting EFI for use on Pre-macOS (will be put in a different repository, currently on hold)
+- trying to update the EFI to Opencore 0.6.9
 
 # For use in Big Sur (Methods given by TheBloke: https://github.com/TheBloke)
 - Must have working NVRAM (https://dortania.github.io/OpenCore-Post-Install/misc/nvram.html)
