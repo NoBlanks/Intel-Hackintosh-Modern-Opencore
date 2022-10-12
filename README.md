@@ -1,4 +1,5 @@
 NOT UPDATED ANYMORE DUE TO ME CONVERTING THIS INTO A NAS
+
 It was a good run :)
 
 # Intel Hackintosh (Opencore)
