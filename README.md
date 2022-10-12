@@ -1,3 +1,6 @@
+NOT UPDATED ANYMORE DUE TO ME CONVERTING THIS INTO A NAS
+It was a good run :)
+
 # Intel Hackintosh (Opencore)
 - Intel Core 2 Quad Q8200
 - Gigabyte GA-EP45-UD3R (rev 1.1)
